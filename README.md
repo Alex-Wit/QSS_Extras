@@ -1,3 +1,3 @@
-# QSS20 activities
+# QSS Storage
 
-This public repo has content for the Fall 2024 iteration of `QSS20: Modern Statistical Computing` at Dartmouth College. The main components are slides and associated Jupyter notebook-based activities to practice Python or other concepts. 
+This public repo has content from an old class of mine that I want to store for future reference
